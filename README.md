@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Castillo
 
-<!--
-**datacastillo/datacastillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería en Sistemas  
+📊 Apasionado por el Análisis de Datos  
+🛠️ Habilidades: Power BI · Excel · MySQL · Python (en proceso)  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 Sobre mí
+
+Soy una persona curiosa, autodidacta y comprometida con el aprendizaje continuo.  
+Me enfoco en desarrollar proyectos prácticos que refuercen mis habilidades en análisis de datos, visualización y gestión de bases de datos.
+
+---
+
+## 🧰 Tecnologías y herramientas
+
+- Power BI  
+- Microsoft Excel  
+- MySQL  
+- Python (en proceso)  
+- Git & GitHub  
+
+---
+
+## 🎯 Objetivo profesional
+
+Buscar oportunidades para iniciar mi carrera como **Analista de Datos Jr.**, donde pueda aportar valor y seguir aprendiendo.

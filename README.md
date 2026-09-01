@@ -125,6 +125,15 @@
 <br>
 
 <!-- ============================================= -->
+<!--          ANIMACIÓN DE CONTRIBUCIONES           -->
+<!-- ============================================= -->
+<h2 align="center">🐍 Contribuciones</h2>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/datacastillo/datacastillo/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+</div>
+<br>
+
+<!-- ============================================= -->
 <!--                   CONTACTO                     -->
 <!-- ============================================= -->
 <h2 align="center">📬 Contacto</h2>
